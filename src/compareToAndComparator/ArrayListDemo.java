@@ -20,6 +20,7 @@ public class ArrayListDemo {
 		public int compare(Mobile o1, Mobile o2) {
 			if(o1.getPrice()>o2.getPrice())
 			{
+				
 				return 1;
 			}
 			else
